@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "id": "82e92b18-6aa2-489d-8435-570a95b2acfe",
+      "userId": "1",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "title": "Test"
+    },
+    {
+      "userId": "1",
+      "id": "3b0f3be3-95bb-4a11-bee6-0ecb7a9aa6bb",
+      "title": "Test",
+      "body": "test"
+    },
+    {
+      "userId": "1",
+      "id": "256852ec-7eae-4ea3-972a-205791ea27da",
+      "title": "MM",
+      "body": "SS"
+    },
+    {
+      "userId": "1",
+      "id": "72e43109-138c-445c-a182-1cb00953eaa7",
+      "title": "TT",
+      "body": "RR"
+    },
+    {
+      "userId": "1",
+      "id": "bc937868-29dd-4a95-9707-e23890e2b353",
+      "title": "df",
+      "body": "dfdfdf"
+    },
+    {
+      "userId": "1",
+      "id": "39dac9bc-2458-4ad9-91c5-6a7868508c53",
+      "title": "N",
+      "body": "S"
+    },
+    {
+      "userId": "1",
+      "id": "4b53647f-056c-456e-853a-cf2006126a67",
+      "title": "VV",
+      "body": "VV"
+    },
+    {
+      "userId": "1",
+      "id": "058a5741-f46d-460b-95fb-a76278994fab",
+      "title": "Test",
+      "body": "RG"
+    },
+    {
+      "userId": "1",
+      "id": "2fef5f8d-0ad7-4c42-bb44-d8322aee45c5",
+      "title": "Test",
+      "body": "erer"
+    }
+  ]
+}
